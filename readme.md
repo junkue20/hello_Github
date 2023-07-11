@@ -13,7 +13,7 @@ pwd(Get-Location) : 현재 경로 파악
 ---
 
 - VScode 활용, Git 저장소 생성 및 Github 연동 명령어 학습
-```java
+```
 /* 깃 저장소 생성시 한번만! */
 git config --global user.email (메일주소)
 git config --global user.name (이름)
